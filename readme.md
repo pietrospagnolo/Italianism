@@ -7,6 +7,8 @@ ITALIANISM originates from the saperevedere.it blog . The inaugural conference i
 Around 100 artists and professionals will be participating, representing a diverse array of disciplines:
 Art Direction • Communication • Design • Digital • Photography • Cartoon Design• Graphics • Illustration• Infographics • Multimedia • Print • Street Art • Textiles • Tattoo • Typography • Video.
 
+http://italianism.it/
+
 ## License
 
 See the [LICENSE](license.md) file for license rights and limitations (CC).
