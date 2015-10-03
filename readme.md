@@ -1,4 +1,4 @@
-# X Italianism 15
+# Italianism 15
 
 ITALIANISM is a creative conference and a meeting space for the new Italian visual arts scene taking place in Rome on October 10th, 2015 (10:00am - 04:00am).
 The conference objective is to draw an initial picture of contemporary production: young, original and qualitative and to promote networking and co-operation, whether in Italy or abroad.
